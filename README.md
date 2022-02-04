@@ -11,9 +11,9 @@
         https://docs.google.com/spreadsheets/d/1149Ps2PCafaKjHHkUYw5PmeiY5skg3tY/edit?usp=sharing&ouid=105581454063004875005&rtpof=true&sd=true
   - Run command on console <pip install requirements.txt> 
   - copy the code folder on your machine
-  - To Run flask app:.
+  - To Run flask app:
     - Run command on console <flask run>
-  - To run Django app  
+  - To run Django app:  
     - Python manage.py runserver
   - Setup postman app
     - Import collection from this repo
