@@ -18,6 +18,11 @@
   - Setup postman app
     - Import collection from this repo
   - Happy testing.
+  
+  Solution overview
+The following depiction illustrates the solution workflow. The diagram shows the process and a summary of what is being performed and delivered:
+
+Diagram illustrating the process and summary of a typical manual deployment using the various open source tools.
 
 <!---
 himanshuQ ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
