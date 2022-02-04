@@ -18,6 +18,7 @@
   - Run command on console "pip install requirements.txt" 
   - copy the code folder on your machine
   - To Run flask app:
+    - Set default flask app; run command "export FLASK_APP=app"
     - Run command on console "flask run"
   - To run Django app:  
     - Run command "Python manage.py runserver"
