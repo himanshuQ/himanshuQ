@@ -6,6 +6,9 @@
 - Setup steps
   - Install python 3.* on your machine
   - Install pip on your machine
+  - Place the data file in you home directory
+    -   IFSC File – Google Drive Link
+        https://docs.google.com/spreadsheets/d/1149Ps2PCafaKjHHkUYw5PmeiY5skg3tY/edit?usp=sharing&ouid=105581454063004875005&rtpof=true&sd=true
   - Run command on console <pip install requirements.txt> 
   - copy the code folder on your machine
   - To Run flask app:.
